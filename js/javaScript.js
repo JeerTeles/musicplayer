@@ -18,29 +18,58 @@ let repeatSong = false;
 
 const songs = [
   {
-    name: "Stomping Rock",
-    author: "Alex Grohl",
-    path: "./music/Alex Grohl - Stomping Rock.mp3",
+    name: "Solinho Do Brabo",
+    author: "Japãozin",
+    path: "./music/japaozin-solinho-do-brabo-d56c033d.mp3",
   },
+
   {
-    name: "Jazzy Abstract Beat",
-    author: "Coma Media",
-    path: "./music/Coma Media - Jazzy Abstract Beat.mp3",
+    name: "Conspiração Ft. Marília Mendonça",
+    author: "Tribo Da Periferia",
+    path: "./music/tribodaperiferia-conspiracao-ft-marilia-mendonca-01356338.mp3"
   },
+
   {
-    name: "Sexy Fashion Beats",
-    author: "Coma Media",
-    path: "./assets/songs/Coma Media - Sexy Fashion Beats.mp3",
+    name: "Carinha De Neném",
+    author: "Japãozin", 
+    path: "./music/japaozin-japaozin-carinha-de-nenem-9c2101d8.mp3"
   },
+
+
   {
-    name: "Best Time",
-    author: "FASSounds",
-    path: "./assets/songs/FASSounds - Best Time.mp3",
+    name: "Desbeijar Minha Boca",
+    author: "Henrique e  Juliano", 
+    path: "./music/henriqueejulianooficial-desbeijar-minha-boca-c2f932ee.mp3",
   },
+
   {
-    name: "Guitar Electro Sport",
-    author: "Gvidon",
-    path: "./assets/songs/Gvidon - Guitar Electro Sport Trailer.mp3",
+    name: "Cidade Vizinha",
+    author: "Henrique e Juliano",
+    path: "./music/henriqueejulianooficial-cidade-vizinha-9f59e1e5.mp3",
+  },
+
+  {
+    name: "Eu você o mar e ela",
+    author: "Nadson Ferinha",
+    path: "./music/nadsonoferinhadoarrochaweb-03-eu-vc-o-mar-e-ela-401f3c7f.mp3"
+  },
+
+  {
+    name: "A gente fez Amor",
+    author: "Unha Pintada",
+    path: "./music/unhapintadaoficial-01-a-gente-fez-amor-2-19153414.mp3"
+  },
+
+  {
+    name: "Anti Amor",
+    author: "Gustavo Mioto",
+    path: "./music/gustavomioto-gustavo-mioto-anti-amor-part-jorge-e-mateus-61cde797.mp3",
+  },
+
+  {
+    name: "Imprevisivel",
+    author: "Tribo Da Periferia",
+    path: "./music/tribodaperiferia-imprevisivel-2ad746d1.mp3",
   },
 ];
 
